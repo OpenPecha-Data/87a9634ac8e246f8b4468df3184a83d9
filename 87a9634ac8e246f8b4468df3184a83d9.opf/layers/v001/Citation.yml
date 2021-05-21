@@ -1,6 +1,6 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00016'
+revision: '00017'
 annotations:
   668b924589f845cfb7399b245784f4a3:
     span:
@@ -37,13 +37,33 @@ annotations:
       start: 18048
       end: 18148
     is_verse: false
-  96e6b6c0186b491eaabe85aa4fccff4f:
+  b485455a51a64aabbe56fa958a5158ed:
     span:
       start: 19441
       end: 19550
     is_verse: false
-  ccb59bcaf5d5409b8d1b3a964a96c439:
+  4f16fc233ba8496fb9717c66d4b7c661:
     span:
       start: 21374
       end: 22055
+    is_verse: false
+  a07b4e4dde734726b38712d49b4ef523:
+    span:
+      start: 24691
+      end: 24974
+    is_verse: false
+  068e7db3edc442548568b46e3aff51f4:
+    span:
+      start: 25391
+      end: 25702
+    is_verse: false
+  181f6601177842e2bff731e797531faa:
+    span:
+      start: 25712
+      end: 25799
+    is_verse: false
+  afcb7b09c8354ab3a3590ec429a331f6:
+    span:
+      start: 25809
+      end: 25918
     is_verse: false
