@@ -1,6 +1,6 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00012'
+revision: '00016'
 annotations:
   668b924589f845cfb7399b245784f4a3:
     span:
@@ -36,4 +36,14 @@ annotations:
     span:
       start: 18048
       end: 18148
+    is_verse: false
+  96e6b6c0186b491eaabe85aa4fccff4f:
+    span:
+      start: 19441
+      end: 19550
+    is_verse: false
+  ccb59bcaf5d5409b8d1b3a964a96c439:
+    span:
+      start: 21374
+      end: 22055
     is_verse: false
