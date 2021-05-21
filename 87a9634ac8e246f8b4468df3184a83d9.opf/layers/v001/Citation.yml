@@ -1,14 +1,39 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00013'
+revision: '00012'
 annotations:
-  3d6d60e4ea2c4c1cbe598378fefaf19c:
+  668b924589f845cfb7399b245784f4a3:
     span:
       start: 5101
       end: 5281
     is_verse: false
-  3c396de370b147109a819efd09b77464:
+  d24fa750975b42b4aee8b66bdccf0844:
     span:
       start: 6274
       end: 6389
+    is_verse: false
+  f073b9c313014c4fad9d941ba5b3b73c:
+    span:
+      start: 6440
+      end: 6570
+    is_verse: false
+  168e25140e1840cba2a8028d909dc3e2:
+    span:
+      start: 6960
+      end: 7179
+    is_verse: false
+  40ccef69f85e48eaa905c1affcfc7e54:
+    span:
+      start: 9781
+      end: 9855
+    is_verse: false
+  6c87831a340845f9bed746b37c95f4a7:
+    span:
+      start: 17829
+      end: 18036
+    is_verse: false
+  3c98328f62114be8a5f5b18d111023d7:
+    span:
+      start: 18048
+      end: 18148
     is_verse: false
